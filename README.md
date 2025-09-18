@@ -140,8 +140,3 @@ Mensagens de erro previsíveis serão lançadas como `DomainException` e serão 
 - Regras de **workflow** mais rígidas (ex.: proibir pular estados).
 - UI **gráfica** (Swing/JavaFX) ou API **REST** mantendo o mesmo domínio/serviços.
 
----
-
-## Licença
-
-Este projeto será distribuído para fins educacionais. Uma licença aberta (MIT/Apache-2.0) poderá ser adotada conforme necessidade do curso/trabalho.
