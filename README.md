@@ -115,19 +115,7 @@ src/
 
 ## Requisitos
 
-- **Java 17** (ou superior)
-- **Maven** (opcional, mas recomendado)
-
-### Build com Maven (opcional)
-
-O projeto será empacotado com `maven-jar-plugin` apontando para `app.Main` como `mainClass`.
-
-```bash
-mvn clean package
-java -jar target/sgpe-console-1.0.0.jar
-```
-
----
+- **Java 
 
 ## Execução (console)
 
